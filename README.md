@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dibyasundarroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dibyasundarroy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dibya sundar roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibya sundar roy" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dibya sundar roy](https://www.linkedin.com/in/dibya-sundar-roy-0189a41b7/?originalSubdomain=in)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibya sundar roy" height="30" width="40" /></a>
 <a href="https://codesandbox.com/dibya_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dibya_roy" height="30" width="40" /></a>
 <a href="https://instagram.com/dibya_roy_3094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibya_roy_3094" height="30" width="40" /></a>
 <a href="https://hashnode.com/@dibya3094roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dibya3094roy" height="30" width="40" /></a>
