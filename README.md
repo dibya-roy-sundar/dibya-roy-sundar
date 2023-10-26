@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dibyasundarroy" target="blank"><img src="https://img.shields.io/twitter/follow/dibyasundarroy?logo=twitter&style=for-the-badge" alt="dibyasundarroy" /></a> </p>
 
-- 🔭 I’m currently working on **todo list web app**
+- 🔭 I’m currently working on **A Food Order web app**
 
 - 🌱 I’m currently learning **React.js**
 
