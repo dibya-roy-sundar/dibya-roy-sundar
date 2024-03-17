@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How does the internet work?](https://dibya-roy.hashnode.dev/how-does-the-internet-work)
+- [Unveiling the Wonders of the Internet](https://dibya-roy.hashnode.dev/how-does-the-internet-work)
 - [Boost Database performance in MongoDB by Indexing](https://dibya-roy.hashnode.dev/boost-database-performance-in-mongodb-by-indexing)
 - [The usecallback hook in React](https://dibya-roy.hashnode.dev/why-we-need-usecallback-hook)
 
