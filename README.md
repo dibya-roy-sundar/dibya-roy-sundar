@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Dibya Sundar Roy</h1>
-<h3 align="center">A  fullStack developer</h3>
+<h3 align="center">FullStack developer,Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya-roy-sundar&label=Profile%20views&color=0e75b6&style=flat" alt="dibya-roy-sundar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dibyasundarroy" target="blank"><img src="https://img.shields.io/twitter/follow/dibyasundarroy?logo=twitter&style=for-the-badge" alt="dibyasundarroy" /></a> </p>
 
 
-
-- 🌱 I’m currently learning **Socket.io**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dibya-roy-sundar](https://github.com/dibya-roy-sundar)
 
